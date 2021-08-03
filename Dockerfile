@@ -63,3 +63,4 @@ CMD jupyter lab \
     --NotebookApp.port='8888' \
     --NotebookApp.token='secretpassword' \
     --NotebookApp.open_browser='False'
+    
